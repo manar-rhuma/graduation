@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310294367876",
+    "project_id": "scanclean-fc72c",
+    "storage_bucket": "scanclean-fc72c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310294367876:android:8e5e83945cb30e7667bcd1",
+        "android_client_info": {
+          "package_name": "com.graduation25.scanclean"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhXT8m6NMsidUdHmo4PmAKAtfPWIK0AF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
