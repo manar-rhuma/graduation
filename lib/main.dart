@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
       ],
       supportedLocales: [Locale("ar", "AE")],
       locale: Locale("ar", "AE"),
-
+      print('manar');
       home: Insertdriver(),
     );
   }
